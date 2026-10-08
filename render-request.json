@@ -1,0 +1,9 @@
+{
+  "name": "meme-rocco",
+  "buildCommand": "true",
+  "publishPath": ".",
+  "repo": "https://github.com/myclaudeprojects/meme-rocco",
+  "branch": "main",
+  "autoDeploy": "yes",
+  "workspaceId": "tea-d95bkuuq1p3s73cshmn0"
+}
