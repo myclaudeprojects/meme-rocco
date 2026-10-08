@@ -1,0 +1,45 @@
+{
+  "ticker": "ROCCO",
+  "ticker_lower": "rocco",
+  "name": "Rocco",
+  "character": {
+    "name": "Rocco",
+    "one_liner": "Collector of shiny things. Never admits to anything.",
+    "visual": "Fluffy raccoon with a bandit mask, big amber eyes, a cheeky grin, clutching a shiny soda can"
+  },
+  "tagline": "Found it. Keeping it. Saw nothing.",
+  "blurb": "Rocco collects anything that sparkles and has no idea how it got there. Entertainment only \u2014 not financial advice.",
+  "mint": null,
+  "ca": null,
+  "buy_url": null,
+  "twitter": null,
+  "x_url": null,
+  "telegram": null,
+  "telegram_url": null,
+  "dexscreener": null,
+  "character_image": "/workspace/meme-site-factory/critters-art/rocco.webp",
+  "palette": {
+    "primary": "#ff9a76",
+    "secondary": "#ffd6a5",
+    "accent": "#ffe8d6",
+    "bg": "#fff8f1"
+  },
+  "design": {
+    "seed": "5dca93d24719735c",
+    "palette_family": "cream_peach",
+    "palette_source": "generated",
+    "layout": "wide_hero",
+    "layout_source": "generated",
+    "layout_label": "Full-bleed soft hero band with mascot on top, content below",
+    "font_pair": "baloo_quicksand",
+    "font_source": "generated",
+    "font_display": "Baloo 2",
+    "font_body": "Quicksand",
+    "font_google": "family=Baloo+2:wght@400;500;600;700;800&family=Quicksand:wght@400;500;600;700"
+  },
+  "request_id": "rocco-2026-10-08-001",
+  "reply_to_agent_id": "9411f9dd-aace-468d-ba4c-319e35db5600",
+  "public": true,
+  "lore": "Rocco has a mask for a reason, and he will not be telling you what it is.\n\nThe shiny can? Found it. The bottle cap collection, the lost earring, the one sparkly button off your coat? Also found. Rocco's stash grows every night, and every morning he looks you right in the eye and grins.\n\nCheeky, curious, and impossible to stay mad at, Rocco just loves treasure. Mostly yours. Entertainment only \u2014 not financial advice.",
+  "lore_source": "handoff"
+}
